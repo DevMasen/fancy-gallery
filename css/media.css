@@ -1,0 +1,24 @@
+@media only screen and (width <= 1200px){
+    .container{
+        max-width: 960px;
+        padding: 2rem 7rem;
+    }
+}
+@media only screen and (width <= 992px){
+    .container{
+        max-width: 720;
+        padding: 1rem 5rem;
+    }
+}
+@media only screen and (width <= 768px){
+    .container{
+        max-width: 540px;
+        padding: 0.5rem 3rem;
+    }
+}
+@media only screen and (width <= 576px){
+    .container{
+        max-width: 0.5rem 100%;
+        pad: 1rem;
+    }
+}
