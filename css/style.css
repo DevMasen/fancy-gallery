@@ -1,6 +1,6 @@
 @font-face {
   font-family: 'giraffey';
-  src: url('/fonts/giraffey.woff') format('woff');
+  src: url('./fonts/giraffey.woff') format('woff');
 }
 
 * {
@@ -9,7 +9,7 @@
 
 body {
   font-family: giraffey;
-  background-image: url('/img/SexyBackground.webp');
+  background-image: url('./img/SexyBackground.webp');
   background-color: #2d2d2d;
   margin: 0;
   padding: 0;
